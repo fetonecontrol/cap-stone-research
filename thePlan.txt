@@ -32,6 +32,9 @@ _Put Random Ideas here_
 
 ## potentially useful APIs
 
+_helpful video on firebase_
+* https://www.youtube.com/watch?v=lW7DWV2jST0
+
 _Google Speech to Text_
  * (https://cloud.google.com/speech-to-text/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-skws-all-all-trial-p-dr-1009135&utm_content=text-ad-none-any-DEV_c-CRE_438264225815-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+%7C+US+%7C+en+%7C+PHR+~+ML/AI+~+Speech+API+~+Speech+to+Text+~+Speech+To+Text-KWID_43700036255048137-kwd-475797938054&utm_term=KW_speech%20to%20text-ST_Speech+To+Text&gclid=Cj0KCQjwqrb7BRDlARIsACwGad5UYtjEzsRiGvN1FYUXPKd6Nup9HaV9fC_W5FthwFDGUawUYCEJAnMaAhI3EALw_wcB)
 
