@@ -1,0 +1,7 @@
+This is the plan.
+
+* log user input (either speech to text or just text(speech to text preferable. Speaking outloud helps one hear themselves)
+* utilize speech to text API to translate user input.
+* utilize sentiment analisys API to interpret user input.
+* look for keywords associated with user input, log frequency in relation to pos/neg/neutral decoding.
+* provide %percent pos/neg/neutral interperitation of user input, per experience.
