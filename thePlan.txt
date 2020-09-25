@@ -1,5 +1,7 @@
 ## This is the plan.
 
+# The rubber ducky method
+
 ## MVP
 
 * log user input (either speech to text or just text(speech to text preferable. Speaking outloud helps one hear themselves)
@@ -7,6 +9,7 @@
 * utilize sentiment analisys API to interpret user input.
 * look for keywords associated with user input, log frequency in relation to pos/neg/neutral decoding.
 * provide %percent pos/neg/neutral interperitation of user input, per experience.
+* modify dom with cool colors and effects relevant to user input.
 
 
 ## Sandbox 
@@ -17,6 +20,7 @@ _Put Random Ideas here_
 * describe what you know.
 * descreibe what you don't know.
 * describe what you might not not know you know.
+* Query respective DB's with structured search terms from user input
 
 
 ## To-Do-List 9.25.20
@@ -31,3 +35,8 @@ _Put Random Ideas here_
 _Google Speech to Text_
  * (https://cloud.google.com/speech-to-text/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-skws-all-all-trial-p-dr-1009135&utm_content=text-ad-none-any-DEV_c-CRE_438264225815-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+%7C+US+%7C+en+%7C+PHR+~+ML/AI+~+Speech+API+~+Speech+to+Text+~+Speech+To+Text-KWID_43700036255048137-kwd-475797938054&utm_term=KW_speech%20to%20text-ST_Speech+To+Text&gclid=Cj0KCQjwqrb7BRDlARIsACwGad5UYtjEzsRiGvN1FYUXPKd6Nup9HaV9fC_W5FthwFDGUawUYCEJAnMaAhI3EALw_wcB)
 
+_Twilio Speech to Text_
+* (https://www.twilio.com/speech-recognition?utm_source=google&utm_medium=cpc&utm_term=&utm_campaign=G_S_NAMER_NB_Voice_IVR_US&CA=&campaignid=1634734928&adgroupid=102441055438&adid=436338093773&gclid=Cj0KCQjwqrb7BRDlARIsACwGad7MpFRRHSbw_kCvZDALd8Be-TWY1qVlxrwRw3Al6SK2lTgRQqTDagsaAhl6EALw_wcB&gclsrc=aw.ds
+)
+_Google Maps API_
+* (https://developers.google.com/maps/documentation/geocoding/overview?csw=1)
