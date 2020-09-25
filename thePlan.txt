@@ -21,6 +21,7 @@ _Put Random Ideas here_
 * descreibe what you don't know.
 * describe what you might not not know you know.
 * Query respective DB's with structured search terms from user input
+* Decide on MVP of speech to text, and either analize either the speech, the text, or both, and store the information.
 
 
 ## To-Do-List 9.25.20
@@ -30,7 +31,11 @@ _Put Random Ideas here_
 * create component diagram.
 * decide on cloud hosting for DB, or scaffold C# MySql DB.
 
-## potentially useful APIs
+## potentially useful APIs and other information
+
+_Batch writing to firebase_
+
+* https://firebase.google.com/docs/firestore/manage-data/transactions
 
 _helpful video on firebase_
 * https://www.youtube.com/watch?v=lW7DWV2jST0
